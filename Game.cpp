@@ -998,7 +998,7 @@ void drawGameOverScreen() {
     // Restart instructions
     drawText(windowWidth / 2 - 120, windowHeight / 2 - 120, " Press 'P' to play again");
 
-    drawText(windowWidth / 2 - 160, windowHeight / 2-160, "  Made By-Ria , Shaurya , Srishti");
+    drawText(windowWidth / 2 - 160, windowHeight / 2-160, "  Made By-Ria , Shaurya ");
 }
 
 void display() {
